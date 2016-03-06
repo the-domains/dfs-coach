@@ -1,0 +1,28 @@
+name: DFS COACH
+favicon: null
+layout_spectrum: 0.7997577409259975
+typography_spectrum: 0.832456547068432
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4582583853043616
+  lightness: 0.8700466717127711
+  saturation: 0.38501833216287196
+  rhythmicContrast: 0.5260349251329899
+purpose: []
